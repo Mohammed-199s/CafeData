@@ -20,7 +20,6 @@
     <ul style="font-size:14px;">
         <li><b>Mohammed Abubakr Abdulla</b></li><br>
        
-    </ul>
-    <br>
+   
    <h3>Link of the Colab:</h3>
     <a target="_blank" href="https://colab.research.google.com/drive/1k6v16xAovGqDZA0zGsr2wN5nIFJYdN3L?usp=sharing">https://colab.research.google.com/drive/1k6v16xAovGqDZA0zGsr2wN5nIFJYdN3L?usp=sharing</a>
