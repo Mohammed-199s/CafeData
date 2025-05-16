@@ -1,6 +1,6 @@
 # Cafe Data Set
 
-Our project collects key transaction details for a **Café**, such as **Transaction ID**, **Item**, **Quantity**, **Price Per Unit**, **Total Spent**, **Payment Method**, **Location**, and **Transaction Date**. These insights are crucial for analyzing Café operations and customer preferences.
+Our project collects key transaction details for a **Café**, such as **Transaction ID**, **Item**, **Quantity**, **Price Per Unit**, **Total Spent**, **Payment Method**, **Location**, and **Transaction Date**. These insights are crucial for analyzing Café operations and customer preferences. 
 
 The dataset consists of **500 rows**, each representing a single transaction in a **café**. The columns in the dataset are:
 
